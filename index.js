@@ -4,7 +4,7 @@ function Objects(obj, key){
 }
 
 function updateObjectWithKeyAndValue(obj, key, value){
-  obj[key] = value
+  
   return obj
 }
 
