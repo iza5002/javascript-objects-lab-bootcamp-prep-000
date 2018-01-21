@@ -1,4 +1,4 @@
 function Objects(obj, key){
-  var 
+  var recipes = Object()
   return obj
 }
