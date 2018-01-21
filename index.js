@@ -3,7 +3,7 @@ function Objects(obj, key){
   
 }
 
-function updateObjectWithKeyAndValue(object, key, value){
+function updateObjectWithKeyAndValue(obj, 'prop2', 2){
   obj[key] = value
   return obj
 }
